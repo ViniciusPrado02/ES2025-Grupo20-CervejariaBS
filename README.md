@@ -5,7 +5,7 @@ Especificação de Sistema de Controle para a Cervejaria BeboSim - Projeto da Di
 ### Sistema de Controle de Produção e Vendas  
 **Disciplina:** Engenharia de Software – 2025  
 **Professor:** Radamés Pereira  
-**Grupo:** ES2025–GrupoX  
+**Grupo:** ES2025–Grupo 20  
 
 ---
 
